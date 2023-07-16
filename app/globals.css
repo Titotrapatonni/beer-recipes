@@ -16,7 +16,8 @@ dd {
   margin: 0;
 }
 ul,
-ol {
+ol,
+li {
   list-style: none;
 }
 html:focus-within {
